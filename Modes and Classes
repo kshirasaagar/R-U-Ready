@@ -1,0 +1,12 @@
+
+class - vectors, factors, data frames, matrices, arrays. lists etc.
+
+mode - numeric, character, boolean, complex, integer etc.
+
+vector - 1-Dimensional 1-Mode object
+factor - coded vector with multiple levels
+matrices - 2-Dimensional number object
+arrays - n-Dimensional number object
+lists - combination/amalgamation/collection of objects
+
+data frames - special kind of list, which has list of vectors
