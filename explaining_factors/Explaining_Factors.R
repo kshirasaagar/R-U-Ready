@@ -1,5 +1,6 @@
 
 #Explaining Factors
+#Showing off my commenting skills
 
 setwd("~/all_the_r/explaining_factors")
 # Continuous to Categorical - for Univariate/Models
@@ -17,4 +18,3 @@ factor(a, levels = c("Monday","Tuesday","Saturday","Sunday"),labels = c("Mon","T
 
 print(a)
 print("It runs!")
-
